@@ -42,7 +42,7 @@
   {
     "name": "Ensias doc ",
     "desc": "platform of managing documents of the university with tools : Java 11, Spring, JavaScript, Hibernate, Bootstrap, MySQL, Arquillian, JUnit, Docker",
-    "image": "1",
+    "image": "weatherlyandroid",
     "category": "mern",
     "links": {
       "view": "#",
